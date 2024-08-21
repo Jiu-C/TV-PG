@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar;md5;9439272a2145cee9b997d2a345240f3d",
+	"spider":"./pg.jar;md5;a27c0af363178865380efe04eae8927c",
 	"logo":"https://ooo.0x0.ooo/2024/05/07/OpwFqi.gif",
 	"sites":[
 		{
@@ -150,6 +150,7 @@
 			}
 		},
 		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+		{"key":"影探","name":"🏵影探｜TV","type":3,"api":"csp_LvDou","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"playerType":1,"ext":{"server":"http://jqq.hhtv.vip/yt4k/ytdzsc.php/","mackey":"tvmdx013i45wtrds|1Ifsk97c90cvwxaa","danmu":true}},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$noproxy$$$1$$$./lib/wogg.json$$$WOBG"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
 		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
